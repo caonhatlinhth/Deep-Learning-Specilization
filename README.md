@@ -1,4 +1,10 @@
 **Deep Learning Specialization**
+<details>
+  <summary>Show Second Certificate</summary>
+  
+  [<img src="https://github.com/caonhatlinhth/DeepLearning.AI-deep-learning-specialization/assets/62228403/27edfca7-ad1b-4fb1-a1f5-19c90532bcbb" alt="Second Certificate Image" />](https://coursera.org/verify/ANOTHER_VERIFICATION_CODE)
+  
+</details>
 
 This repository contains all the code, projects, assignments, and datasets from my Deep Learning Specialization course (Andrew Ng.). The specialization focused on fundamental concepts and cutting-edge applications of deep learning using Python and popular deep learning framework - TensorFlow.
 
