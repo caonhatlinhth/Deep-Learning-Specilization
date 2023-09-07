@@ -2,7 +2,7 @@
 <details>
   <summary>Show Second Certificate</summary>
   
-  [<img src="https://github.com/caonhatlinhth/DeepLearning.AI-deep-learning-specialization/assets/62228403/27edfca7-ad1b-4fb1-a1f5-19c90532bcbb" alt="Second Certificate Image" />](https://coursera.org/verify/ANOTHER_VERIFICATION_CODE)
+  [<img src="https://github.com/caonhatlinhth/DeepLearning.AI-deep-learning-specialization/assets/62228403/7712625e-a225-43ae-87e7-d7abbce5da04" alt="Second Certificate Image" />](https://coursera.org/verify/ANOTHER_VERIFICATION_CODE)
   
 </details>
 
